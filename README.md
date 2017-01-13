@@ -1,17 +1,15 @@
 # cooking_demo
 > A vue project.
 
-## Development
-
+## 安装
 ```shell
 npm i cooking-cli -g
-npm run dev
+mkdir cooking-demo
+cd cooking-demo
+cooking init vue
 ```
 
-## Production
-```
-npm run dist
-```
+
 
 ## License
 ISC
