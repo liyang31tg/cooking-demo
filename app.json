@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "entry": "home",
+      "title": "首页",
+      "cdn": {}
+    }
+  ],
+  "basePath": "./src/pages/",
+  "cdn": {
+    "js": [
+      
+    ],
+    "css": []
+  },
+  "externals": { 
+    
+  }
+}
