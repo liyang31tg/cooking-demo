@@ -13,7 +13,7 @@ cooking init vue
 ##mint-ui
 ```shell
 cnpm install mint-ui --save
-使用具体参照(官网)[http://mint-ui.github.io/#!/zh-cn]
+使用具体参照[官网](http://mint-ui.github.io/#!/zh-cn)
 ```
 
 ## License
