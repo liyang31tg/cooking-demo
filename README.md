@@ -1,5 +1,6 @@
 # cooking_demo
 > A vue project.
+> https://github.com/ElemeFE(参考)
 
 ## 安装
 ```shell
